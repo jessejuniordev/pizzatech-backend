@@ -1,0 +1,10 @@
+spring:
+  application:
+  name: pizzatech
+  datasource:
+    url: jdbc:postgresql://localhost:5432/pizzatech
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    show-sql: true
