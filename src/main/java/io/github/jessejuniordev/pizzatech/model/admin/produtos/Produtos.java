@@ -1,4 +1,4 @@
-package io.github.jessejuniordev.pizzatech.model.produtos;
+package io.github.jessejuniordev.pizzatech.model.admin.produtos;
 
 public enum Produtos {
     PIZZA,

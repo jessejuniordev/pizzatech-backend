@@ -1,4 +1,4 @@
-package io.github.jessejuniordev.pizzatech.model.produtos;
+package io.github.jessejuniordev.pizzatech.model.admin.produtos;
 
 import jakarta.persistence.*;
 import lombok.Data;
